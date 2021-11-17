@@ -16,12 +16,7 @@
 - G1GC：
 - ZGC/Shenandoah GC
 
-
-
-
-
 **5.（选做）**运行课上的例子，以及 Netty 的例子，分析相关现象。
 **6.（必做）**写一段代码，使用 HttpClient 或 OkHttp 访问 [ http://localhost:8801 ](http://localhost:8801/)，代码提交到 GitHub。
 
-链接：./okhttp.java
-
+链接：https://github.com/Hxhgithub1/javaCourseTask/blob/master/02jvm%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF/okhttp.java

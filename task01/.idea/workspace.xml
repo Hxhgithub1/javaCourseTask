@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91e769ee-2d30-4c29-b4a4-2e8dc8c87991" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="task01" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20XpD75UbtXF1VlwI2Z5mmguos9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/hxh/nio" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java训练营\homework\task01\src\main\java\com\hxh\nio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java训练营\homework\task01\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OkHttpClient">
+    <configuration name="HttpServer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxh.nio.HttpServer01" />
+      <module name="task01" />
+      <option name="VM_PARAMETERS" value="-Xmx512m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxh.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpServer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxh.nio.HttpServer02" />
+      <module name="task01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxh.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyHttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxh.nio.netty.NettyHttpServer" />
+      <module name="task01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxh.nio.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OkHttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxh.nio.OkHttpClient" />
+      <module name="task01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxh.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxh.nio.test1" />
+      <module name="task01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxh.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HttpServer01" />
+      <item itemvalue="Application.NettyHttpServer" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.OkHttpClient" />
+      <item itemvalue="Application.HttpServer02" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OkHttpClient" />
+        <item itemvalue="Application.NettyHttpServer" />
+        <item itemvalue="Application.HttpServer02" />
+        <item itemvalue="Application.HttpServer01" />
+        <item itemvalue="Application.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91e769ee-2d30-4c29-b4a4-2e8dc8c87991" name="Default Changelist" comment="" />
+      <created>1636200663807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636200663807</updated>
+      <workItem from="1636200667738" duration="33535000" />
+      <workItem from="1637499480626" duration="645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1636775340242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1636775340242" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636776685369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1636776685369" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1637496803355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1637496803355" />
+    <state width="410" height="466" key="DebuggerActiveHint" timestamp="1636203484845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="410" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1636203484845" />
+    <state width="1342" height="118" key="GridCell.Tab.0.bottom" timestamp="1637500352731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="118" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637500352731" />
+    <state width="1342" height="118" key="GridCell.Tab.0.center" timestamp="1637500352731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="118" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1637500352731" />
+    <state width="1342" height="118" key="GridCell.Tab.0.left" timestamp="1637500352731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="118" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1637500352731" />
+    <state width="1342" height="118" key="GridCell.Tab.0.right" timestamp="1637500352731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="118" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1637500352731" />
+    <state width="1342" height="229" key="GridCell.Tab.1.bottom" timestamp="1637238428907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="229" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637238428907" />
+    <state width="1342" height="229" key="GridCell.Tab.1.center" timestamp="1637238428907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="229" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1637238428907" />
+    <state width="1342" height="229" key="GridCell.Tab.1.left" timestamp="1637238428906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="229" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1637238428906" />
+    <state width="1342" height="229" key="GridCell.Tab.1.right" timestamp="1637238428907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="229" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1637238428907" />
+    <state x="209" y="100" key="Maven.ArtifactSearchDialog" timestamp="1637492582253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="100" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1637492582253" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1636811725416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1636811725416" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hxh/XlassLoader.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
